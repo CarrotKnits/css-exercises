@@ -3,3 +3,8 @@
     color: white;
     font-weight: bold;
 }
+
+.click.yellow {
+    background-color: yellow;
+}
+
