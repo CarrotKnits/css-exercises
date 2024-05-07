@@ -1,14 +1,15 @@
-.click.black {
+.black {
     background-color: black;
     color: white;
     font-weight: bold;
 }
 
-.click.yellow {
+.yellow {
     background-color: yellow;
 }
 
-.click {
+.yellow,
+.black {
     font-size: 28px;
     font-family: Helvetica, Times New Roman, sans-serif;
 }
