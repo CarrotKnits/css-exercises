@@ -7,10 +7,44 @@ img {
   height: 100px;
 }
 
+.text {
+  text-align: center;
+}
+
 .title {
   font-size: 36px;
   font-weight: 900;
+  text-align: center;
+  margin-bottom: 32px;
 }
+
+.plants {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.barberry {
+  width: 200px;
+  text-align: center;
+}
+
+.chili {
+  width: 200px;
+  text-align: center;
+}
+
+.pepper {
+  width: 200px;
+  text-align: center;
+}
+
+.saffron {
+  width: 200px;
+  text-align: center;
+}
+
+
 
 /* do not edit this footer */
 .footer {
