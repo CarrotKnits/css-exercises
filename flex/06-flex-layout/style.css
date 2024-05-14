@@ -37,3 +37,13 @@ input {
   display: flex;
   justify-content: space-between;
 }
+
+.left-links {
+  display: flex;
+  gap: 24px;
+}
+
+.right-links {
+  display: flex;
+  gap: 24px;
+}
